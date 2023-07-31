@@ -2,8 +2,8 @@
 
 Notebooks Colab para el curso de posgrado "Elementos de Computación" de la Especialización en Matemática Aplicada.
 
-Juan Manuel Fernández - Rosana Matuk Herrera\n
-Elementos de Computación\n
-División Computación CIencias Básicas\n
-Departamento de Ciencias Básicas\n
-Universidad Nacional de Luján\n
+Juan Manuel Fernández - Rosana Matuk Herrera<br />
+Elementos de Computación<br />
+División Computación CIencias Básicas<br />
+Departamento de Ciencias Básicas<br />
+Universidad Nacional de Luján<br />
