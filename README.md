@@ -1,6 +1,6 @@
-# Repositorio de Notebooks Colab
+# Elementos de Computación - UNLu
 
-Notebooks Colab para el curso de posgrado "Elementos de Computación" de la Especialización en Matemática Aplicada.
+En este repositorio podrán encontrar código, ejemplos, gráficos y notebooks del curso de posgrado "Elementos de Computación" de la Especialización en Matemática Aplicada.
 
 Juan Manuel Fernández - Rosana Matuk Herrera<br />
 Elementos de Computación<br />
