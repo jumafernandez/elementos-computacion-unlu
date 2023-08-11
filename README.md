@@ -5,6 +5,6 @@ En este repositorio podrán encontrar código, ejemplos, gráficos y notebooks d
 <br />
 Juan Manuel Fernández - Rosana Matuk Herrera<br />
 Elementos de Computación<br />
-División Computación CIencias Básicas<br />
+División Computación Ciencias Básicas<br />
 Departamento de Ciencias Básicas<br />
 Universidad Nacional de Luján<br />
