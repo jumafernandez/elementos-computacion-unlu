@@ -27,7 +27,6 @@ def plot_rect_and_point(x1, y1, x2, y2, x_punto, y_punto):
     plt.show()
 
 
-
 x1 = float(input("Ingrese la coordenada x del vértice 1: "))
 y1 = float(input("Ingrese la coordenada y del vértice 1: "))
 x2 = float(input("Ingrese la coordenada x del vértice 2: "))
