@@ -7,7 +7,7 @@ def perimetro_rectangulo(base, altura):
     altura : float
         Es la altura del rectángulo
 
-    Returns
+    Returnssfefefefe
     -------
     Perímetro: float
     """
